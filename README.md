@@ -2,17 +2,17 @@
 Grupo A, 1° trabalho de calculo numerico.  
 
 membros:
-BERNARDO GARCIA FERREIRA JUNIOR
-CHRISTIAN WILLIAMS DA SILVA
-JULIANA FREIRE GOMES
-OLIMPIO DE CARVALHO ANDRADE                        	 
-WELLYSON DOS SANTOS SILVA
+BERNARDO GARCIA FERREIRA JUNIOR,
+CHRISTIAN WILLIAMS DA SILVA,
+JULIANA FREIRE GOMES,
+OLIMPIO DE CARVALHO ANDRADE,                        	 
+WELLYSON DOS SANTOS SILVA.
 
 
-problema 1: bisseção problema; 
-problema 2: posição falsa problema; 
-problema 3: ponto fixo problema; 
-problema 4: newton/secante; 
+problema 1: bisseção problema,
+problema 2: posição falsa problema,
+problema 3: ponto fixo problema,
+problema 4: newton/secante.
 
 Instruções adicionais
 
